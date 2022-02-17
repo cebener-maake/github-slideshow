@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+One for Code and Code for All
 Use the left arrow to go back!
